@@ -122,7 +122,7 @@ export const technicalSkillsData = [
 
 export const algorithmicExpertiseData = {
   title: "Data Structures & Algorithms",
-  text: "Solved 120+ DSA problems covering arrays, strings, trees, hashmaps, dynamic programming, and greedy techniques in Java.",
+  text: "Solved 250+ DSA problems covering arrays, strings, trees, hashmaps, dynamic programming, and greedy techniques in Java.",
   topics: ["Arrays", "Strings", "Trees", "Hashmaps", "Dynamic Programming", "Greedy Techniques"],
   language: "Java",
   count: "120+"
