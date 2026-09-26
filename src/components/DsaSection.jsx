@@ -31,7 +31,7 @@ export const DsaSection = ({ data, leetcodeUrl }) => {
             </div>
             <div>
               <h3 className="text-xl sm:text-2xl font-bold text-slate-100 tracking-tight group-hover:text-white transition-colors">
-                120+ Coding Problems Solved
+                250+ Coding Problems Solved
               </h3>
               <p className="text-xs font-mono text-slate-400">
                 Core Data Structures & Algorithms in Java
