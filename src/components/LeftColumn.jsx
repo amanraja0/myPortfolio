@@ -57,7 +57,7 @@ export const LeftColumn = ({
 
         {/* Single Unified Profile Summary (replaces multiple paragraphs) */}
         <p className="text-xs sm:text-sm text-slate-300 font-normal leading-relaxed mb-6">
-          Full-stack engineer building production-grade <strong className="text-white font-semibold">React.js</strong> and <strong className="text-white font-semibold">Spring Boot</strong> systems, with enterprise experience at <strong className="text-slate-100 font-medium">Extramarks Education</strong>, 4 shipped full-stack projects, and <strong className="text-amber-400 font-medium">120+ DSA problems</strong> solved.
+          Full-stack engineer building production-grade <strong className="text-white font-semibold">React.js</strong> and <strong className="text-white font-semibold">Spring Boot</strong> systems, with enterprise experience at <strong className="text-slate-100 font-medium">Extramarks Education</strong>, 4 shipped full-stack projects, and <strong className="text-amber-400 font-medium">250+ DSA problems</strong> solved.
         </p>
 
         {/* High-Visibility View Resume Button */}
